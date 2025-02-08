@@ -106,3 +106,5 @@ To enhance usability, the dashboard will include: <br>
 
 
 
+#### Story
+Main focus is comparing all categories with followers to understand the trend 
