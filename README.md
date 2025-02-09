@@ -52,8 +52,8 @@ Here are the steps that I have followed while cleaning and preprocessing the dat
 ![image](https://github.com/user-attachments/assets/57fe835f-056d-44ff-84cc-e34782092465)
 #### Preparing Data for Tableau
 1. Structures data to allow analysis by content categories & location
-2. Saves the cleaned dataset as "cleaned_channels.csv" for further analysis <br> <br>
-![image](https://github.com/user-attachments/assets/38a506f1-375e-4f71-8810-102c1f59d86a)
+2. Saves the cleaned dataset as "cleaned_channels.xlsx" for further analysis (It is saved as an excel file so that Tableau can easily and efficiently extract data) <br> <br>
+![image](https://github.com/user-attachments/assets/a0ce48c1-2205-4c2c-8027-7aef7c70b48a)
 
 ### Explore and Analyse the Data
 In the ever-evolving world of YouTube, understanding what drives engagement is crucial for brands and advertisers looking to collaborate with influencers. This analysis leverages the "YouTube 100,000 Influencers" dataset to uncover insights into content trends, viewer loyalty, geographic impact, and branding strategies that shape influencer success.
