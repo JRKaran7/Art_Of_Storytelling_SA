@@ -108,3 +108,21 @@ To enhance usability, the dashboard will include: <br>
 
 #### Story
 Main focus is comparing all categories with followers to understand the trend 
+
+
+### Publish and Share the Story
+#### Publish The Dashboard
+There are multiple ways to publish and share a Tableau dashboard, including Tableau Public, Tableau Server, Tableau Online, embedding in a website, or exporting as an image/PDF. However, I chose Google Sites because it provides a simple, accessible, and shareable platform. <br>
+1. Ease of Access: No additional login or software is required for viewers. <br>
+2. Seamless Integration: The dashboard can be embedded directly, allowing interactive insights. <br>
+3. Collaboration: Enables easy sharing with stakeholders, including brands, advertisers, and influencer managers. <br>
+This approach ensures that key marketing insights—such as top-performing content categories, regional engagement trends, and content growth patterns—are easily available to decision-makers for data-driven marketing strategies.
+
+#### Share Insights 
+• Entertainment leads in engagement, with over 6 billion followers, making it the dominant content category. <br>
+• Education and Comedy also attract large audiences, proving that informative and entertaining content drive substantial growth. <br>
+• The U.S. and India are the top influencer markets, highlighting prime regions for brand collaborations. <br>
+• Channel trailers and branding elements significantly impact audience engagement, proving the importance of strong first impressions. <br>
+• Music dominates as the most-produced content category, surpassing News & Politics, Entertainment, and Gaming, highlighting its widespread influence and continuous demand in digital media. <br>
+• Content creation peaked in 2014, reaching its highest number of video uploads, followed by a significant decline, indicating a potential shift in platform trends or content strategies post-2014. <br>
+• Entertainment and Music categories have the highest number of trailers, indicating strong promotional efforts in these genres to attract audience engagement.
