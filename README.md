@@ -109,6 +109,35 @@ To enhance usability, the dashboard will include: <br>
 #### Story
 Main focus is comparing all categories with followers to understand the trend 
 
+### Test the Dashboard
+#### Usability Testing
+At Influencer Insights Pvt Ltd, we prioritize user experience. To ensure our dashboard is intuitive, interactive, and efficient, we conducted extensive usability testing. Key areas of evaluation include: <br>
+1. Navigation & Accessibility – Can users easily find insights? <br>
+2. Interactivity – Do filters, tooltips, and visual elements function smoothly? <br>
+3. Performance & Speed – Does the dashboard load efficiently? <br>
+4. Device Compatibility – Is the experience seamless across mobile and desktop? <br> <br>
+To further refine the dashboard, we have launched a survey feedback form. Your responses will help us enhance usability and improve the dashboard’s effectiveness. <br> <br>
+Feedback Survey Link: - [https://docs.google.com/forms/d/e/1FAIpQLSd2-5pUN5KrnV-NKsSkQ8AKR4rK0hvhhEOlHvxR8RKJtyBcdA/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSd2-5pUN5KrnV-NKsSkQ8AKR4rK0hvhhEOlHvxR8RKJtyBcdA/viewform?usp=header) <br>
+Responses Link: - [https://docs.google.com/spreadsheets/d/11c4l-ZiAwqDDyKRdM6-OsPIs5pjT6uv77veRazBth3c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/11c4l-ZiAwqDDyKRdM6-OsPIs5pjT6uv77veRazBth3c/edit?usp=sharing)
+
+#### Check for Accuracy
+At Influencer Insights Pvt Ltd, ensuring data accuracy is a top priority. Our dashboard is built to provide reliable insights, helping brands, advertisers, and influencer managers make informed decisions. To maintain high standards of accuracy, we have implemented the following validation measures: <br>
+
+1. Data Source Verification: <br>
+• We ensure that all data used in the dashboard comes from credible sources. <br>
+• The dataset is cross-checked against multiple sources to verify consistency. <br>
+2. Data Cleaning & Processing: <br>
+• Raw data undergoes a rigorous cleaning process to remove duplicate or incomplete entries. <br>
+• Outliers and inconsistencies are identified and addressed to prevent misleading insights. <br>
+3. Calculation & Metric Validation: <br>
+• Key metrics such as engagement rates, video counts, and category performance are verified with statistical checks. <br>
+• Aggregated values are tested to ensure they align with the expected totals. <br>
+4. Dashboard Functionality Testing: <br>
+• Filters and interactive elements are tested to ensure they accurately reflect data selections. <br>
+• Visualizations are reviewed to confirm that they display the correct insights without misrepresenting data. <br>
+5. User Feedback & Continuous Monitoring: <br>
+• We encourage users to report any discrepancies they observe. <br>
+• Regular updates are made to keep the dashboard aligned with the latest trends and data. <br> <br>
 
 ### Publish and Share the Story
 #### Publish The Dashboard
@@ -126,3 +155,6 @@ This approach ensures that key marketing insights—such as top-performing conte
 • Music dominates as the most-produced content category, surpassing News & Politics, Entertainment, and Gaming, highlighting its widespread influence and continuous demand in digital media. <br>
 • Content creation peaked in 2014, reaching its highest number of video uploads, followed by a significant decline, indicating a potential shift in platform trends or content strategies post-2014. <br>
 • Entertainment and Music categories have the highest number of trailers, indicating strong promotional efforts in these genres to attract audience engagement.
+
+### Conclusion
+Working on this project has been an insightful journey for Influencer Insights Pvt Ltd, allowing us to explore the power of data visualization using Tableau. Through the development of this interactive dashboard, we gained hands-on experience in handling large datasets, ensuring accuracy, and creating user-friendly visual representations of influencer trends. From data validation to usability testing, every step reinforced the importance of precision and clarity in analytics. Publishing the dashboard via Google Sites provided an accessible and seamless way to share insights with our audience. To enhance its effectiveness, we have launched a survey feedback form, inviting users to share their experiences and help us refine our work further. This project has strengthened our expertise in data-driven decision-making, and we look forward to implementing more innovations in the future.
