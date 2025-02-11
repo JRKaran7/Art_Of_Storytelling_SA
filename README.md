@@ -104,10 +104,21 @@ To enhance usability, the dashboard will include: <br>
 • **Comparison Mode:** Users can compare two or more influencers, content types, or regions side by side to identify performance differences. <br>
 • **Time-Based Trends:** The dashboard will allow users to analyze how engagement and follower count evolved over months or years, helping brands predict future trends. <br>
 
+### Create a Storyboard in Tableau
+#### Organise Data into a Narrative
+1. The dashboard is structured in a logical flow, beginning with an overview of influencer content categories, followed by engagement trends, regional impact, and concluding with actionable insights. <br>
+2. Each section of the storyboard builds upon the previous one, allowing users to explore data step-by-step, making it easier to identify key patterns and trends.
+#### Design for Impact
+1. The visual elements are carefully selected to ensure clarity, using intuitive charts, graphs, and filters that allow users to interact with the data seamlessly. <br>
+2. The layout prioritizes readability, ensuring that insights are easy to interpret, with a balance of visuals and supporting text for better comprehension.
 
-
-#### Story
-Main focus is comparing all categories with followers to understand the trend 
+### Add Context and Annotations
+#### Provide Explanations
+1. Key insights are annotated to provide explanations, ensuring that users understand how factors like content type and location influence engagement and growth. <br>
+2. Additional contextual notes help users navigate complex relationships within the data, making the dashboard more user-friendly and insightful.
+#### Branding
+1. Company branding, including Influencer Insights Pvt. Ltd. colors and logo, has been integrated to maintain a professional and consistent visual identity. <br>
+2. A clean and modern design approach enhances the dashboard’s credibility, ensuring that it aligns with industry standards and expectations.
 
 ### Test the Dashboard
 #### Usability Testing
@@ -145,7 +156,9 @@ There are multiple ways to publish and share a Tableau dashboard, including Tabl
 1. Ease of Access: No additional login or software is required for viewers. <br>
 2. Seamless Integration: The dashboard can be embedded directly, allowing interactive insights. <br>
 3. Collaboration: Enables easy sharing with stakeholders, including brands, advertisers, and influencer managers. <br>
-This approach ensures that key marketing insights—such as top-performing content categories, regional engagement trends, and content growth patterns—are easily available to decision-makers for data-driven marketing strategies.
+This approach ensures that key marketing insights—such as top-performing content categories, regional engagement trends, and content growth patterns—are easily available to decision-makers for data-driven marketing strategies. <br> <br>
+
+Sites Link: - [https://sites.google.com/view/aoswdsa/home](https://sites.google.com/view/aoswdsa/home)
 
 #### Share Insights 
 • Entertainment leads in engagement, with over 6 billion followers, making it the dominant content category. <br>
