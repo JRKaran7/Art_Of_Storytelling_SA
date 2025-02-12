@@ -124,7 +124,10 @@ To enhance usability, the dashboard will include: <br>
 2. Additional contextual notes help users navigate complex relationships within the data, making the dashboard more user-friendly and insightful.
 #### Branding
 1. Company branding, including Influencer Insights Pvt. Ltd. colors and logo, has been integrated to maintain a professional and consistent visual identity. <br>
-2. A clean and modern design approach enhances the dashboard’s credibility, ensuring that it aligns with industry standards and expectations.
+2. A clean and modern design approach enhances the dashboard’s credibility, ensuring that it aligns with industry standards and expectations. <br>
+
+Influencer Insights Private Limited have also made a video to show why YouTube Influencers should approach us for optimizing their strategies.
+Video Link: - [https://www.canva.com/design/DAGe3V89ZrA/mxueZ2ZQD_LP9YPS8JBBuw/watch?utm_content=DAGe3V89ZrA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h718102cd1a](https://www.canva.com/design/DAGe3V89ZrA/mxueZ2ZQD_LP9YPS8JBBuw/watch?utm_content=DAGe3V89ZrA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h718102cd1a)
 
 ### Test the Dashboard
 #### Usability Testing
@@ -185,7 +188,8 @@ Working on this project has been an insightful journey for Influencer Insights P
 ### Resources
 **1. Logo: -** [https://www.canva.com/](https://www.canva.com/) <br>
 **2. Visualizations: -** [https://public.tableau.com/app/discover](https://public.tableau.com/app/discover) <br>
-**3. Data Cleaning and Preprocessing: -** Python 
+**3. Data Cleaning and Preprocessing: -** Python <br>
+**4. Video: -** [https://invideo.io/](https://invideo.io/)
 
 ### Bibliography
 1. Evans, H. (2017, October 28). “content is king” - essay by Bill Gates 1996. Medium. https://medium.com/@HeathEvans/content-is-king-essay-by-bill-gates-1996-df74552f80d9 
