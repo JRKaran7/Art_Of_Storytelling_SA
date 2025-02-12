@@ -162,7 +162,7 @@ There are multiple ways to publish and share a Tableau dashboard, including Tabl
 **1. Ease of Access:** No additional login or software is required for viewers. <br>
 **2. Seamless Integration:** The dashboard can be embedded directly, allowing interactive insights. <br>
 **3. Collaboration:** Enables easy sharing with stakeholders, including brands, advertisers, and influencer managers. <br> <br>
-This approach ensures that key marketing insights—such as top-performing content categories, regional engagement trends, and content growth patterns—are easily available to decision-makers for data-driven marketing strategies. <br> <br>
+This approach ensures that key marketing insights—such as top-performing content categories, regional engagement trends, and content growth patterns—are easily available to decision-makers for data-driven marketing strategies. <br>
 
 **Sites Link: -** [https://sites.google.com/view/aoswdsa/home](https://sites.google.com/view/aoswdsa/home)
 
