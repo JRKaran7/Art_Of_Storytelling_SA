@@ -129,6 +129,45 @@ To enhance usability, the dashboard will include: <br>
 Influencer Insights Private Limited have also made a video to show why YouTube Influencers should approach us for optimizing their strategies.
 Video Link: - [https://www.canva.com/design/DAGe3V89ZrA/mxueZ2ZQD_LP9YPS8JBBuw/watch?utm_content=DAGe3V89ZrA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h718102cd1a](https://www.canva.com/design/DAGe3V89ZrA/mxueZ2ZQD_LP9YPS8JBBuw/watch?utm_content=DAGe3V89ZrA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h718102cd1a)
 
+### Visualizations and their Key Insights
+#### Top Categories in YouTube (Bar Graph)
+![image](https://github.com/user-attachments/assets/62bf23b0-e21c-4fc5-98d2-214668f83e0a) <br> <br>
+• Entertainment is the most engaging category, having the highest number of followers. <br>
+• Music and Gaming are also among the top-performing categories in terms of engagement.
+#### Trailer and Follower Count (Pie Chart)
+![image](https://github.com/user-attachments/assets/99d79a5f-f49e-435c-b0ff-fc70b16c21ae)
+![image](https://github.com/user-attachments/assets/6b9e204a-c0ed-40f4-9a73-4490f3250847) <br> <br>
+• The Entertainment category dominates in terms of trailer engagement, indicating its widespread popularity. <br>
+• Other categories contribute significantly but have a much smaller share compared to entertainment.
+#### Influencer Performance (Table)
+![image](https://github.com/user-attachments/assets/4754d61c-13d4-41cd-a1d7-16f7fc00763b) <br> <br>
+• The top two influencers have nearly 70 million followers each, significantly higher than others. <br>
+• There is variation in the number of videos uploaded, indicating that engagement is not solely dependent on video quantity.
+#### No. of Videos and Followers per Category (Scatter Plot)
+![image](https://github.com/user-attachments/assets/5f273f9c-f4df-4a3c-8de2-5a9a29e81140) <br> <br>
+• Entertainment has the highest number of followers, suggesting high engagement. <br>
+• News and Politics has a high number of videos but comparatively fewer followers, indicating less engagement per video.
+#### Tree Map to Understand Number of Videos and Followers from Each Country
+![image](https://github.com/user-attachments/assets/637efe28-0093-4f7a-9b0c-59860e8ccadd) <br> <br>
+• The United States dominates in influencer presence, with the highest number of videos and followers. <br>
+• India is also a major player, contributing significantly to content creation and audience reach.
+#### Influencer Reach Around the World (Map Visualization)
+![image](https://github.com/user-attachments/assets/5a140338-35af-43df-8442-ccb4b61e785d) <br> <br> 
+• Influencers have a global reach, but some regions contribute more content than others. <br>
+• The United States and India are the most influential regions in terms of content creation.
+#### Follower Growth Over Time (Line Graph)
+![image](https://github.com/user-attachments/assets/a4d84ed3-056c-41f2-9be7-1fed61f4fbc3) <br> <br>
+• There was rapid follower growth between 2008 and 2012, showing a boom in influencer popularity. <br>
+• Engagement started declining post-2016, possibly due to market saturation or changing audience preferences.
+#### Top 10 Categories (Video Count) (Bar Graph)
+![image](https://github.com/user-attachments/assets/5b4dc501-74ef-4a29-ab5d-00e30d01b313) <br> <br>
+• Music has the highest number of videos, showing continuous content creation in this category. <br>
+• News & Politics and Entertainment also have high video counts, suggesting active participation from creators.
+#### Content Growth Over Time (Line Graph)
+![image](https://github.com/user-attachments/assets/b43a4871-218b-4083-bdc5-1c2eb3c7f111) <br> <br>
+• 2014 saw the highest number of videos uploaded, indicating peak content creation. <br>
+• A decline in video uploads after 2015 suggests either a shift in strategy or changing platform dynamics.
+
 ### Test the Dashboard
 #### Usability Testing
 At Influencer Insights Pvt Ltd, we prioritize user experience. To ensure our dashboard is intuitive, interactive, and efficient, we conducted extensive usability testing. **Key areas of evaluation include:** <br>
@@ -177,6 +216,11 @@ This approach ensures that key marketing insights—such as top-performing conte
 • Music dominates as the most-produced content category, surpassing News & Politics, Entertainment, and Gaming, highlighting its widespread influence and continuous demand in digital media. <br>
 • Content creation peaked in 2014, reaching its highest number of video uploads, followed by a significant decline, indicating a potential shift in platform trends or content strategies post-2014. <br>
 • Entertainment and Music categories have the highest number of trailers, indicating strong promotional efforts in these genres to attract audience engagement.
+
+### Dashboard Image
+![Dashboard 1 (7)](https://github.com/user-attachments/assets/68058119-2c1e-499d-a21b-c60b6aa330a0)
+### Data Story Image
+![Geographic Distribution of Pollutants pdf (1)](https://github.com/user-attachments/assets/f3b7b0af-e7a8-423f-964e-2db88ebeb610)
 
 ### Storyboard to Depict my Project Journey
 ![Daily Energy Transfer Storyboard in Cream Light Blue Clean Style (6)](https://github.com/user-attachments/assets/136c8410-f589-4bfe-9dcd-6d623d373f12) <br> <br>
