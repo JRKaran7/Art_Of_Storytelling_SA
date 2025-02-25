@@ -126,11 +126,57 @@ To enhance usability, the dashboard will include: <br>
 ![image](https://github.com/user-attachments/assets/8aee36d1-f425-449b-855b-dfa83dfd9cc7)
 
 #### Branding
-1. Company branding, including Influencer Insights Pvt. Ltd. colors and logo, has been integrated to maintain a professional and consistent visual identity. <br>
+1. Company branding, including Influencer Insights Pvt. Ltd. logo, has been integrated to maintain a professional and consistent visual identity. <br>
 2. A clean and modern design approach enhances the dashboard’s credibility, ensuring that it aligns with industry standards and expectations. <br>
 
 Influencer Insights Private Limited have also made a video to show why YouTube Influencers should approach us for optimizing their strategies.
 Video Link: - [https://www.canva.com/design/DAGe3V89ZrA/mxueZ2ZQD_LP9YPS8JBBuw/watch?utm_content=DAGe3V89ZrA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h718102cd1a](https://www.canva.com/design/DAGe3V89ZrA/mxueZ2ZQD_LP9YPS8JBBuw/watch?utm_content=DAGe3V89ZrA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h718102cd1a)
+
+### Test the Dashboard
+#### Usability Testing
+At Influencer Insights Pvt Ltd, we prioritize user experience. To ensure our dashboard is intuitive, interactive, and efficient, we conducted extensive usability testing. <br> **Key areas of evaluation include:** <br>
+**1. Navigation & Accessibility –** Can users easily find insights? <br>
+**2. Interactivity –** Do filters, tooltips, and visual elements function smoothly? <br>
+**3. Performance & Speed –** Does the dashboard load efficiently? <br>
+**4. Device Compatibility –** Is the experience seamless across mobile and desktop? <br> <br>
+To further refine the dashboard, we have launched a survey feedback form. Your responses will help us enhance usability and improve the dashboard’s effectiveness. <br> <br>
+**Feedback Survey Link: -** [https://docs.google.com/forms/d/e/1FAIpQLSd2-5pUN5KrnV-NKsSkQ8AKR4rK0hvhhEOlHvxR8RKJtyBcdA/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSd2-5pUN5KrnV-NKsSkQ8AKR4rK0hvhhEOlHvxR8RKJtyBcdA/viewform?usp=header) <br>
+**Responses Link: -** [https://docs.google.com/spreadsheets/d/11c4l-ZiAwqDDyKRdM6-OsPIs5pjT6uv77veRazBth3c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/11c4l-ZiAwqDDyKRdM6-OsPIs5pjT6uv77veRazBth3c/edit?usp=sharing)
+
+#### Improvements
+1. **Color Scheme:** <br>
+Incorporate a consistent and recognizable color palette that reflects the "Influencer Insights" identity while maintaining visual clarity across different categories. <br> <br>
+Before: - <br>
+![Screenshot 2025-02-08 145528](https://github.com/user-attachments/assets/91cdc078-815f-405e-91e5-88344c6ae34a) <br> <br>
+After: - <br>
+![Screenshot 2025-02-20 171921](https://github.com/user-attachments/assets/75113279-dd6b-47d8-bb79-29e3fc0cef1e) <br> <br>
+
+2. **Narrative Enhancement:** <br>
+Structure insights as a progressive journey, showing how influencers grow from content creation to engagement and long-term success, making data more engaging. <br>
+<br>
+Before: - <br>
+![image](https://github.com/user-attachments/assets/1f71ae25-3f83-41ca-852a-7cfbe5b611f1) <br> <br>
+After: - <br>
+![image](https://github.com/user-attachments/assets/ac7a7b6b-e453-4c17-96ae-16bdc7de63fb)
+
+#### Check for Accuracy
+At Influencer Insights Pvt Ltd, ensuring data accuracy is a top priority. Our dashboard is built to provide reliable insights, helping brands, advertisers, and influencer managers make informed decisions. To maintain high standards of accuracy, we have implemented the following validation measures: <br>
+
+**1. Data Source Verification:** <br>
+• We ensure that all data used in the dashboard comes from credible sources. <br>
+• The dataset is cross-checked against multiple sources to verify consistency. <br> <br>
+**2. Data Cleaning & Processing:** <br>
+• Raw data undergoes a rigorous cleaning process to remove duplicate or incomplete entries. <br>
+• Outliers and inconsistencies are identified and addressed to prevent misleading insights. <br> <br>
+**3. Calculation & Metric Validation:** <br>
+• Key metrics such as engagement rates, video counts, and category performance are verified with statistical checks. <br>
+• Aggregated values are tested to ensure they align with the expected totals. <br> <br>
+**4. Dashboard Functionality Testing:** <br>
+• Filters and interactive elements are tested to ensure they accurately reflect data selections. <br>
+• Visualizations are reviewed to confirm that they display the correct insights without misrepresenting data. <br> <br>
+**5. User Feedback & Continuous Monitoring:** <br>
+• We encourage users to report any discrepancies they observe. <br>
+• Regular updates are made to keep the dashboard aligned with the latest trends and data. <br> <br>
 
 ### Visualizations and their Key Insights
 #### Top Categories in YouTube (Bar Graph)
@@ -170,36 +216,6 @@ Video Link: - [https://www.canva.com/design/DAGe3V89ZrA/mxueZ2ZQD_LP9YPS8JBBuw/w
 ![image](https://github.com/user-attachments/assets/b43a4871-218b-4083-bdc5-1c2eb3c7f111) <br> <br>
 • 2014 saw the highest number of videos uploaded, indicating peak content creation. <br>
 • A decline in video uploads after 2015 suggests either a shift in strategy or changing platform dynamics.
-
-### Test the Dashboard
-#### Usability Testing
-At Influencer Insights Pvt Ltd, we prioritize user experience. To ensure our dashboard is intuitive, interactive, and efficient, we conducted extensive usability testing. **Key areas of evaluation include:** <br>
-**1. Navigation & Accessibility –** Can users easily find insights? <br>
-**2. Interactivity –** Do filters, tooltips, and visual elements function smoothly? <br>
-**3. Performance & Speed –** Does the dashboard load efficiently? <br>
-**4. Device Compatibility –** Is the experience seamless across mobile and desktop? <br> <br>
-To further refine the dashboard, we have launched a survey feedback form. Your responses will help us enhance usability and improve the dashboard’s effectiveness. <br> <br>
-**Feedback Survey Link: -** [https://docs.google.com/forms/d/e/1FAIpQLSd2-5pUN5KrnV-NKsSkQ8AKR4rK0hvhhEOlHvxR8RKJtyBcdA/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSd2-5pUN5KrnV-NKsSkQ8AKR4rK0hvhhEOlHvxR8RKJtyBcdA/viewform?usp=header) <br>
-**Responses Link: -** [https://docs.google.com/spreadsheets/d/11c4l-ZiAwqDDyKRdM6-OsPIs5pjT6uv77veRazBth3c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/11c4l-ZiAwqDDyKRdM6-OsPIs5pjT6uv77veRazBth3c/edit?usp=sharing)
-
-#### Check for Accuracy
-At Influencer Insights Pvt Ltd, ensuring data accuracy is a top priority. Our dashboard is built to provide reliable insights, helping brands, advertisers, and influencer managers make informed decisions. To maintain high standards of accuracy, we have implemented the following validation measures: <br>
-
-**1. Data Source Verification:** <br>
-• We ensure that all data used in the dashboard comes from credible sources. <br>
-• The dataset is cross-checked against multiple sources to verify consistency. <br> <br>
-**2. Data Cleaning & Processing:** <br>
-• Raw data undergoes a rigorous cleaning process to remove duplicate or incomplete entries. <br>
-• Outliers and inconsistencies are identified and addressed to prevent misleading insights. <br> <br>
-**3. Calculation & Metric Validation:** <br>
-• Key metrics such as engagement rates, video counts, and category performance are verified with statistical checks. <br>
-• Aggregated values are tested to ensure they align with the expected totals. <br> <br>
-**4. Dashboard Functionality Testing:** <br>
-• Filters and interactive elements are tested to ensure they accurately reflect data selections. <br>
-• Visualizations are reviewed to confirm that they display the correct insights without misrepresenting data. <br> <br>
-**5. User Feedback & Continuous Monitoring:** <br>
-• We encourage users to report any discrepancies they observe. <br>
-• Regular updates are made to keep the dashboard aligned with the latest trends and data. <br> <br>
 
 ### Publish and Share the Story
 #### Publish The Dashboard
