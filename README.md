@@ -121,7 +121,10 @@ To enhance usability, the dashboard will include: <br>
 ### Add Context and Annotations
 #### Provide Explanations
 1. Key insights are annotated to provide explanations, ensuring that users understand how factors like content type and location influence engagement and growth. <br>
-2. Additional contextual notes help users navigate complex relationships within the data, making the dashboard more user-friendly and insightful.
+2. Additional contextual notes help users navigate complex relationships within the data, making the dashboard more user-friendly and insightful. <br> <br>
+**Sample Annotation** <br>
+![image](https://github.com/user-attachments/assets/8aee36d1-f425-449b-855b-dfa83dfd9cc7)
+
 #### Branding
 1. Company branding, including Influencer Insights Pvt. Ltd. colors and logo, has been integrated to maintain a professional and consistent visual identity. <br>
 2. A clean and modern design approach enhances the dashboard’s credibility, ensuring that it aligns with industry standards and expectations. <br>
@@ -131,7 +134,7 @@ Video Link: - [https://www.canva.com/design/DAGe3V89ZrA/mxueZ2ZQD_LP9YPS8JBBuw/w
 
 ### Visualizations and their Key Insights
 #### Top Categories in YouTube (Bar Graph)
-![image](https://github.com/user-attachments/assets/62bf23b0-e21c-4fc5-98d2-214668f83e0a) <br> <br>
+![image](https://github.com/user-attachments/assets/8aee36d1-f425-449b-855b-dfa83dfd9cc7) <br> <br>
 • Entertainment is the most engaging category, having the highest number of followers. <br>
 • Music and Gaming are also among the top-performing categories in terms of engagement.
 #### Trailer and Follower Count (Pie Chart)
@@ -216,6 +219,13 @@ This approach ensures that key marketing insights—such as top-performing conte
 • Music dominates as the most-produced content category, surpassing News & Politics, Entertainment, and Gaming, highlighting its widespread influence and continuous demand in digital media. <br>
 • Content creation peaked in 2014, reaching its highest number of video uploads, followed by a significant decline, indicating a potential shift in platform trends or content strategies post-2014. <br>
 • Entertainment and Music categories have the highest number of trailers, indicating strong promotional efforts in these genres to attract audience engagement.
+
+#### Limitations:
+• **Lack of Real-Time Insights:** The dashboard presents historical data but does not offer real-time tracking of influencer performance, which is crucial for fast-changing platforms like YouTube. <br>
+• **Limited Granularity:** The data does not provide deeper insights into engagement metrics like watch time, likes, comments, and shares, which are critical for understanding audience interaction beyond follower count.
+#### Future Scope:
+• **AI-Based Predictive Analytics:** Implementing machine learning models to predict influencer growth trends, engagement rates, and potential category shifts could enhance decision-making. <br>
+• **Integration with Multiple Platforms:** Expanding the dashboard to include insights from platforms like Instagram, TikTok, and Twitch could provide a more comprehensive view of influencer success across social media.
 
 ### Dashboard Image
 ![Dashboard 1 (7)](https://github.com/user-attachments/assets/68058119-2c1e-499d-a21b-c60b6aa330a0)
