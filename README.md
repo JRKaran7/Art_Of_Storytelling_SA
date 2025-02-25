@@ -155,9 +155,9 @@ After: - <br>
 Structure insights as a progressive journey, showing how influencers grow from content creation to engagement and long-term success, making data more engaging. <br>
 <br>
 Before: - <br>
-![image](https://github.com/user-attachments/assets/1f71ae25-3f83-41ca-852a-7cfbe5b611f1) <br> <br>
+![Screenshot 2025-02-20 171921](https://github.com/user-attachments/assets/75113279-dd6b-47d8-bb79-29e3fc0cef1e) <br> <br>
 After: - <br>
-![image](https://github.com/user-attachments/assets/ac7a7b6b-e453-4c17-96ae-16bdc7de63fb)
+![Screenshot 2025-02-25 115700](https://github.com/user-attachments/assets/4f8b6330-a6e7-4c7b-8135-4d427b2c7ffb)
 
 #### Check for Accuracy
 At Influencer Insights Pvt Ltd, ensuring data accuracy is a top priority. Our dashboard is built to provide reliable insights, helping brands, advertisers, and influencer managers make informed decisions. To maintain high standards of accuracy, we have implemented the following validation measures: <br>
