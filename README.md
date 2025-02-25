@@ -155,7 +155,9 @@ After: - <br>
 Structure insights as a progressive journey, showing how influencers grow from content creation to engagement and long-term success, making data more engaging. <br>
 <br>
 Before: - <br>
-![Screenshot 2025-02-20 171921](https://github.com/user-attachments/assets/75113279-dd6b-47d8-bb79-29e3fc0cef1e) <br> <br>
+
+![Screenshot 2025-02-25 115618](https://github.com/user-attachments/assets/99929557-8dc6-4087-b468-a23f616ea103) <br> <br>
+
 After: - <br>
 ![Screenshot 2025-02-25 115700](https://github.com/user-attachments/assets/4f8b6330-a6e7-4c7b-8135-4d427b2c7ffb)
 
